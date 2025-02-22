@@ -1,6 +1,6 @@
 # WasteNet - Garbage Classification System
 
-![Garbage Classification](https://storage.googleapis.com/kaggle-datasets-images/1115942/1874598/d298d3df14fce59277b8f0a2e278bdb5/dataset-cover.jpg?t=2021-01-25-13-09-12)
+![Garbage Classification](images/dataset-cover.jpg)
 
 ## Description
 This project implements an image classification system for sorting waste into 12 different categories using deep learning techniques. The model is designed to help address waste management challenges by automatically categorizing different types of garbage, making sorting more efficient and accurate.
